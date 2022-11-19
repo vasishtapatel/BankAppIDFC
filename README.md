@@ -1,2 +1,2 @@
 # BankAppIDFC
-Reactjs
+Frontend and backend
